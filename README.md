@@ -1,4 +1,4 @@
-# sentry-kubernetes
+# sentry-kubernetes - tets
 
 Kubernetes event reporter for Sentry.
 
